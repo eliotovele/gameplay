@@ -4,7 +4,7 @@ import {
   View,
   Text,
   Image,
-  TouchableOpacityProps
+  TouchableOpacityProps,
 } from 'react-native';
 import DiscordImg from '../../assets/discord.png';
 import { styles } from './styles';
